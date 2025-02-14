@@ -1,0 +1,12 @@
+.container-corpo{
+    height: calc(100vh - 60px);
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem{
+    width: 20%
+}
